@@ -1,6 +1,6 @@
 # Nintendo / Famicom Classic Kernels
 
-This repository contains stock kernels for NES / FVC Classic consoles.
+This repository contains stock kernels for NES / HVC Classic consoles.
 
 ## Famicom Classic
 
